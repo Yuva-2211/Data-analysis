@@ -52,3 +52,12 @@ Each project is organized in its own folder and includes:
 - Visualize distributions and relationships
 - Normalize and standardize features
 - Prepare data for machine learning pipelines
+
+
+
+---
+## Contact
+[Yuva Shankar Narayana – LinkedIn](https://www.linkedin.com/in/yuva-shankar-narayana/?originalSubdomain=in)
+
+
+  
